@@ -24,7 +24,7 @@ const noteSchema = new Schema(
         'Ideas',
         'Travel',
         'Finance',
-        'Health ',
+        'Health',
         'Important',
         'Todo',
       ],
